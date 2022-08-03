@@ -1,0 +1,13 @@
+qwertyuiopasdfghjklzxcvbnm,./;'[]1234567890-=\!@#$%^&*()QWERTYUIOPASDFGHJKLZXCVBNM
+ă â ắ ằ á à ạ ậ ặ
+é è ê
+ư ứ ừ ự
+ú ù ụ
+í ì ị
+ó ò ọ ớ ờ ợ ố ồ ộ
+Ă Â Ắ Ằ Á À Ạ Ậ Ặ
+É È Ê
+Ư Ứ Ừ Ự
+Ú Ù Ụ
+Í Ì Ị
+Ó Ò Ọ Ớ Ờ Ợ Ố Ồ Ộ

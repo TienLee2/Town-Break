@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Vietnamese (vi)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Vietnamese (vi)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 227ac1ae5252f374aaa59e7c298b796c
+  m_SerializeEntries:
+  - m_GUID: 969fe349faeb9b2408b440692b1fdae9
+    m_Address: Menu_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+  - m_GUID: 0029e01d011623147b11b81604a2f590
+    m_Address: About_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+  - m_GUID: ca20c3046e2566b4abb395d85adf6798
+    m_Address: Info_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+  - m_GUID: 96c17f4925a852c4d8e2e9a59e7360db
+    m_Address: GameOver_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+  - m_GUID: 365931430f3859f4db998d6362cbcc72
+    m_Address: Tutorial_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 06cefbd4e4ac37b4b84c7c780398faba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 129c722ea286b3040a1e0c0cdf77cb06, type: 2}
+    - {fileID: 11400000, guid: 93fc29bc866eee84d9a0094ba5110717, type: 2}

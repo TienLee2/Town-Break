@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: ffcc6ad85269baf43a0a2101f43197e5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7250231296
+    m_Localized: "Xin ch\xE0o oni-chan ng\u1ED1c, em s\u1EBD h\u01B0\u1EDBng d\u1EABn
+      anh ch\u01A1i game n\xE0y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 842323574784
+    m_Localized: "\u0110\u1EA7u ti\xEAn th\xEC \u0111\u1EE5ng m\u1ED9t v\xE0i n\xFAt
+      n\xE0o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1328653123584
+    m_Localized: "X\xE0i n\xFAt n\xE0y \u0111\u1EC3 di chuy\u1EC3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1571184558080
+    m_Localized: "\u0110i l\u1EA1i g\u1EA7n c\xE1c t\xF2a nh\xE0 \u0111\u1EC3 ph\xE1
+      n\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919378898944
+    m_Localized: "Tuy\u1EC7t v\u1EDDi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2041684803584
+    m_Localized: "H\xE3y \u0111i t\u1EDBi ch\u1ED7 tr\xE1i tim ph\xEDa tr\xEAn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2594263384064
+    m_Localized: "C\xE2y s\xFAng sau l\u01B0ng s\u1EBD t\u1EF1 \u0111\u1ED9ng b\u1EAFn
+      k\u1EBB \u0111\u1ECBch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2910581014528
+    m_Localized: "Ko \u0111\u1EA5m t\u1EE5i n\xF3 \u0111\u01B0\u1EE3c \u0111\xE2u
+      \u0111\u1EEBng c\u1ED1 lol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3085395410944
+    m_Localized: "X\xE0i n\xFAt n\xE0y \u0111\u1EC3 \u0111\u1ED5i m\u1EE5c ti\xEAu
+      b\u1EAFn do c\xE2y s\xFAng ng\xE1o vl"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3510400040960
+    m_Localized: "\u0110\xF3 l\xE0 t\u1EA5t c\u1EA3 nh\u1EEFng g\xEC oni-chan c\u1EA7n
+      bi\u1EBFt, s\u1ED1ng c\xE0ng l\xE2u c\xE0ng t\u1ED1t nhe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3599851962368
+    m_Localized: "Game n\xF3 kh\xE1 \u0111\u01A1n gi\u1EA3n do th\u1EB1ng dev n\xF3
+      l\xE0m bi\u1EBFng, \u0111\xFAng l\xE0 m\u1ED9t th\u1EB1ng ng\u1ED1c, d\xF9
+      sao th\xEC ch\u01A1i game vui v\u1EBB nh\xE9!\n(nh\u1EA5p v\xE0o \u0111\xE2y
+      \u0111\u1EC3 tho\xE1t)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24106374643712
+    m_Localized: "\u0110\xE2y l\xE0 buff, gi\xFAp t\u0103ng s\u1EE9c m\u1EA1nh"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

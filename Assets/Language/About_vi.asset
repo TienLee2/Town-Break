@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: About_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: d804b37944bd09847b879fc3008c00d3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 174691041280
+    m_Localized: "Ai h\u1ECFi m\xE0 b\u1ED9 tr\u01B0\u1EDFng tr\u1EA3 l\u1EDDi?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5677367296
+    m_Localized: "M\u1ED9t t\u1EF1a game nh\u1EA3m nh\xED \n\u0111\u01B0\u1EE3c l\xE0m
+      b\u1EDFi m\u1ED9t th\u1EB1ng sinh vi\xEAn \u1EDF Vi\u1EC7t Nam"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

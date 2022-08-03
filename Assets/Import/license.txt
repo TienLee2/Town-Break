@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly hat
+* source:	https://sketchfab.com/3d-models/lowpoly-hat-66783b21a83d45ed9b9ea7e60748aa12
+* author:	mezzo13 (https://sketchfab.com/mezzo13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly hat" (https://sketchfab.com/3d-models/lowpoly-hat-66783b21a83d45ed9b9ea7e60748aa12) by mezzo13 (https://sketchfab.com/mezzo13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

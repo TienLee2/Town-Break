@@ -1,0 +1,653 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 508,
+      "max": [
+        336.34661865234375,
+        518.55780029296875,
+        388.80776977539062
+      ],
+      "min": [
+        -336.34661865234375,
+        -518.55780029296875,
+        -388.80776977539062
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6096,
+      "componentType": 5126,
+      "count": 508,
+      "max": [
+        0.98768562078475952,
+        0.99968588352203369,
+        0.92979872226715088
+      ],
+      "min": [
+        -0.97472935914993286,
+        -0.99959605932235718,
+        -0.95083647966384888
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 508,
+      "max": [
+        0.94678795337677002,
+        0.84246909618377686
+      ],
+      "min": [
+        0.13386991620063782,
+        0.14442263543605804
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 744,
+      "max": [
+        507
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12192,
+      "componentType": 5126,
+      "count": 8128,
+      "max": [
+        301.2139892578125,
+        503.37811279296875,
+        350.47698974609375
+      ],
+      "min": [
+        -301.2139892578125,
+        -503.37814331054688,
+        -350.47698974609375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 109728,
+      "componentType": 5126,
+      "count": 8128,
+      "max": [
+        0.9994538426399231,
+        0.99968981742858887,
+        0.99910181760787964
+      ],
+      "min": [
+        -0.99923509359359741,
+        -0.99997276067733765,
+        -0.99852949380874634
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4064,
+      "componentType": 5126,
+      "count": 8128,
+      "max": [
+        0.94003766775131226,
+        0.83150815963745117
+      ],
+      "min": [
+        0.14010746777057648,
+        0.14503586292266846
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2976,
+      "componentType": 5125,
+      "count": 12192,
+      "max": [
+        8127
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 207264,
+      "componentType": 5126,
+      "count": 32512,
+      "max": [
+        301.4521484375,
+        503.61843872070312,
+        350.90142822265625
+      ],
+      "min": [
+        -301.4521484375,
+        -503.61837768554688,
+        -350.90145874023438
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 597408,
+      "componentType": 5126,
+      "count": 32512,
+      "max": [
+        0.99998366832733154,
+        0.99999439716339111,
+        0.99893611669540405
+      ],
+      "min": [
+        -0.99960786104202271,
+        -0.99998593330383301,
+        -0.99996477365493774
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 69088,
+      "componentType": 5126,
+      "count": 32512,
+      "max": [
+        0.94023811817169189,
+        0.83172392845153809
+      ],
+      "min": [
+        0.14010746777057648,
+        0.14503586292266846
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 51744,
+      "componentType": 5125,
+      "count": 48768,
+      "max": [
+        32511
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 987552,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        301.4521484375,
+        503.16671752929688,
+        351.08615112304688
+      ],
+      "min": [
+        -300.835693359375,
+        -448.94662475585938,
+        -350.0135498046875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1773936,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999658465385437,
+        0.99999487400054932,
+        0.99994009733200073
+      ],
+      "min": [
+        -0.99982953071594238,
+        -0.98064339160919189,
+        -0.99995130300521851
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 329184,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.94023811817169189,
+        0.83172392845153809
+      ],
+      "min": [
+        0.14010746777057648,
+        0.25698721408843994
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 246816,
+      "componentType": 5125,
+      "count": 98298,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2560320,
+      "componentType": 5126,
+      "count": 64516,
+      "max": [
+        262.06375122070312,
+        503.64727783203125,
+        338.70849609375
+      ],
+      "min": [
+        -301.4521484375,
+        -503.64727783203125,
+        -351.0860595703125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3334512,
+      "componentType": 5126,
+      "count": 64516,
+      "max": [
+        0.99948704242706299,
+        0.99999916553497314,
+        0.9998469352722168
+      ],
+      "min": [
+        -0.99992072582244873,
+        -1,
+        -0.99978148937225342
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 853440,
+      "componentType": 5126,
+      "count": 64516,
+      "max": [
+        0.93421465158462524,
+        0.78096389770507812
+      ],
+      "min": [
+        0.16672629117965698,
+        0.14503586292266846
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 640008,
+      "componentType": 5125,
+      "count": 96774,
+      "max": [
+        64515
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Gohar.Munir (https://sketchfab.com/Gohar.Munir)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/boxing-gloves-left-handed-076293541203455da59a38eea5b6a44b",
+      "title": "Boxing Gloves - Left Handed"
+    },
+    "generator": "Sketchfab-9.94.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1027104,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1369568,
+      "byteOffset": 1027104,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4108704,
+      "byteOffset": 2396672,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6505376,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Glove_Material_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Glove_Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.78852574731188718
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Boxing Glove.001_Glove Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Boxing Glove.002_Glove Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Boxing Glove.003_Glove Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Boxing Glove.004_Glove Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Boxing Glove.004_Glove Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Boxing Gloves - Left.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        34.803413391113281,
+        488.57131958007812,
+        1347.744140625,
+        1
+      ],
+      "name": "Boxing Glove.001"
+    },
+    {
+      "mesh": 0,
+      "name": "Boxing Glove.001_Glove Material_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        21.887302398681641,
+        481.9554443359375,
+        445.9854736328125,
+        1
+      ],
+      "name": "Boxing Glove.002"
+    },
+    {
+      "mesh": 1,
+      "name": "Boxing Glove.002_Glove Material_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        21.64912223815918,
+        482.1956787109375,
+        -453.59005737304688,
+        1
+      ],
+      "name": "Boxing Glove.003"
+    },
+    {
+      "mesh": 2,
+      "name": "Boxing Glove.003_Glove Material_0"
+    },
+    {
+      "children": [
+        11,
+        12
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        21.64912223815918,
+        482.16680908203125,
+        -1353.6817626953125,
+        1
+      ],
+      "name": "Boxing Glove.004"
+    },
+    {
+      "mesh": 3,
+      "name": "Boxing Glove.004_Glove Material_0"
+    },
+    {
+      "mesh": 4,
+      "name": "Boxing Glove.004_Glove Material_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+

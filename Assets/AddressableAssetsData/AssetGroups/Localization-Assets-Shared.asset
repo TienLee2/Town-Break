@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0422b6a81d17f7449816a00e88f56259
+  m_SerializeEntries:
+  - m_GUID: b26f528371c38464ba5a630b9d66505d
+    m_Address: Assets/Language/UI.Text Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: d804b37944bd09847b879fc3008c00d3
+    m_Address: Assets/Language/About Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 84e81a17819eb7340b83fd01d06e1b45
+    m_Address: Assets/Language/Info Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: e12d1e9b59f9d0048b5d7d3a0fb0e97f
+    m_Address: Assets/Language/GameOver Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: ffcc6ad85269baf43a0a2101f43197e5
+    m_Address: Assets/Tutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 06cefbd4e4ac37b4b84c7c780398faba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5772323bc47bc8a42b55442c21e32cb8, type: 2}
+    - {fileID: 11400000, guid: 16d4f99e3f3d2b247a36f68a0e0a0f0f, type: 2}

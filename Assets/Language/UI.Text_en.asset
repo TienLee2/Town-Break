@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI.Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b26f528371c38464ba5a630b9d66505d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10249158656
+    m_Localized: 'Town
+
+      Break'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054415618048
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79763597541376
+    m_Localized: Basement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79898515718144
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79969986658304
+    m_Localized: About
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80020158922752
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80631113826304
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529093315903488
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536064773439488
+    m_Localized: ARE U SURE?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536268444647424
+    m_Localized: 'This action will delete all your progress
+
+      Please consider
+      carefully'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
